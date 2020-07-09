@@ -1,2 +1,2 @@
 # TaggerMail
-Archive of project from Labs24
+Archived Local Version

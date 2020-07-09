@@ -1,0 +1,12 @@
+{
+    "message_id": < value > ,
+    "thread_id": < value > ,
+    "content_type": < value > ,
+    "from_who": < value > ,
+    "to_who": < value > ,
+    "subject": < value > ,
+    "date": < value > ,
+    "smart_tags": < value > ,
+    "sentiment": dict < value > ,
+    "user_tags": < value >
+}

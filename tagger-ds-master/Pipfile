@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+requests = "*"
+python-dotenv = "*"
+markdown = "*"
+pygments = "*"
+google-api-python-client = "==1.7.8"
+google-auth-httplib2 = "*"
+google-auth-oauthlib = "*"
+gensim = "*"
+nltk = "*"
+pandas = "*"
+beautifulsoup4 = "*"
+spacy = "*"
+en-core-web-sm = {file = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.5/en_core_web_sm-2.2.5.tar.gz"}
+
+[requires]
+python_version = "3.7"
